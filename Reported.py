@@ -33,8 +33,8 @@ if que:
 #Codigo!  #
 ###########
 
-for l in range(20):
-	time.sleep(0.2)
+for l in range(40):
+	time.sleep(0000.0001)
 	print('\033[32m'" [+]La cuenta de "+idk+" Ha sido reportada con exito[+]")
 time.sleep(0.5)
 ###########
@@ -44,9 +44,10 @@ time.sleep(0.5)
 #Codigo!  #
 ###########
 if idk: 
-  for idk in range(10):
-   time.sleep(0.2)
-print('\033[31m'"[+]Reportes exitosos[+]")
+  for idk in range(40):
+   time.sleep(000.02)
+print('\033[31m'"        [$]Reportes exitosos[$]")
+time.sleep(15)
 ###########
 #Te veo   #
 #Leyendo  #
