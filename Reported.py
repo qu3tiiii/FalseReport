@@ -34,7 +34,7 @@ if que:
 ###########
 
 for l in range(50):
-	time.sleep(0.3)
+	time.sleep(0.03)
 	print('\033[32m'" [+]La cuenta de "+idk+" Ha sido reportada con exito[+]")
 time.sleep(0.5)
 ###########
